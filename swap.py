@@ -1,4 +1,4 @@
-x=int(input("enter first number"))
+x=int(input("enter the first number"))
 y=int(input("enter second number"))
 print("before swapping")
 print("the value of x",x)
